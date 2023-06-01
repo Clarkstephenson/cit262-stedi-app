@@ -1,6 +1,6 @@
 import hello from "../utils/hello.js";
 
-it("Should say Sean", ()=>{
+it("Should say Clark", ()=>{
     const helloString=hello();
     console.log(helloString);
 
